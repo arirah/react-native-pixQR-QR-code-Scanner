@@ -10,3 +10,7 @@ Run app :
 
 For build :
 `npm run apk`
+
+
+Preview : 
+![](preview.gif)
